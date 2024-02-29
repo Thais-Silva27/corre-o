@@ -1,0 +1,39 @@
+.carousel img {
+    max-height: 300px; /* Defina a altura desejada */
+    width: 100%; /* Isso garante que a largura seja ajustada proporcionalmente à altura */
+    padding:30px;
+}
+
+.projeto h1 {
+    height: 20px;
+    color: rgb(10, 95, 31);
+    background-color: rgb(108, 224, 108);
+    text-align: center;
+    padding: 60px;
+    height: 160px;
+}
+
+.titulo {
+    text-align: center;
+}
+.container-card1 {
+    padding: 80px;
+}
+
+.titulo {
+    padding:60px;
+    background-color: aquamarine;
+    color:rgb(2, 68, 68)
+    }
+
+.row-body {
+    padding:60px;
+}
+
+.container-card1 {
+    .card {
+        width: 400px; 
+        height: 700px;
+}
+}
+
